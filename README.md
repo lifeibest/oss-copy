@@ -1,5 +1,5 @@
 # oss-copy
-oss自动同步脚本，可作为发布部署静态网站的脚本，可当作图床
+oss文件自动同步脚本，可作为发布部署静态网站的脚本，可当作图床
 
 项目依赖阿里云oss ossutil命令行工具 <https://help.aliyun.com/document_detail/50451.html>
 
