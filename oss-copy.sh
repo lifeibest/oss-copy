@@ -14,8 +14,8 @@ ossutilconfigFile="/tmp/.ossutilconfig"
 localDir="xxx"
 #d stDir 如果目录没有，会自动创建，测试的时候尽量新建一个目录，避免同步的时候文件被覆盖
 dstDir="xxx"
-# ossutilCmd ossutil命令行位置，比如"/usr/bin/ossutil"
-ossutilCmd="/usr/bin/ossutil"
+# ossutilCmd ossutil命令行位置，比如"/usr/local/bin/ossutil"
+ossutilCmd="/usr/localobin/ossutil"
 # ---配置结束
 
 
